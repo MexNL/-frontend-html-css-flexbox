@@ -1,0 +1,46 @@
+/*Opdracht 1a*/
+
+.list-one {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.list-one li {
+    list-style-type: none;
+}
+
+/*Opdracht 1b*/
+.list-two {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.list-two li {
+    list-style-type: none;
+}
+
+/*Opdracht 1c*/
+.navbar-three{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navbar-three div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+.list-three {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.list-three li {
+    list-style-type: none;
+}
